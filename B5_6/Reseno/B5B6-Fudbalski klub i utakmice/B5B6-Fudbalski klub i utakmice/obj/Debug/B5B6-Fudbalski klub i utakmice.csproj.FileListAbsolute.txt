@@ -1,0 +1,65 @@
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\B5B6-Fudbalski klub i utakmice.exe.config
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\B5B6-Fudbalski klub i utakmice.exe
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\B5B6-Fudbalski klub i utakmice.pdb
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Form1.resources
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Gradovi.resources
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Kapacitet.resources
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Spisak.resources
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Stadioni.resources
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.csproj.GenerateResource.Cache
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.exe
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.pdb
+C:\Users\Korisnik\Desktop\Srdjan zadaci\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.csprojResolveAssemblyReference.cache
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\ZadaciZaDjake\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\B5B6-Fudbalski klub i utakmice.exe.config
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\ZadaciZaDjake\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.exe
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\ZadaciZaDjake\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.pdb
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\ZadaciZaDjake\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\B5B6-Fudbalski klub i utakmice.exe
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\ZadaciZaDjake\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\B5B6-Fudbalski klub i utakmice.pdb
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\ZadaciZaDjake\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.csprojResolveAssemblyReference.cache
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\ZadaciZaDjake\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Form1.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\ZadaciZaDjake\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Gradovi.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\ZadaciZaDjake\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Kapacitet.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\ZadaciZaDjake\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Properties.Resources.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\ZadaciZaDjake\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Spisak.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\ZadaciZaDjake\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Stadioni.resources
+d:\Skolica\2020-2021\4ITSProgramiranje\MaturaZadaci\ZadaciZaDjake\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.csproj.GenerateResource.Cache
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\B5B6-Fudbalski klub i utakmice.exe.config
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.exe
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.pdb
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\B5B6-Fudbalski klub i utakmice.exe
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\B5B6-Fudbalski klub i utakmice.pdb
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\mscorlib.dll
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\System.Net.Http.dll
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\System.Net.Http.xml
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\normidna.nlp
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\normnfc.nlp
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\normnfd.nlp
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\normnfkc.nlp
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\normnfkd.nlp
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.csprojResolveAssemblyReference.cache
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Form1.resources
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Gradovi.resources
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Kapacitet.resources
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Properties.Resources.resources
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Spisak.resources
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Stadioni.resources
+C:\Users\makim\Downloads\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.csproj.GenerateResource.Cache
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\B5B6-Fudbalski klub i utakmice.exe.config
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.exe
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.pdb
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\B5B6-Fudbalski klub i utakmice.exe
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\B5B6-Fudbalski klub i utakmice.pdb
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\mscorlib.dll
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\normidna.nlp
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\normnfc.nlp
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\normnfd.nlp
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\normnfkc.nlp
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\bin\Debug\normnfkd.nlp
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.csprojResolveAssemblyReference.cache
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Form1.resources
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Gradovi.resources
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Properties.Resources.resources
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6_Fudbalski_klub_i_utakmice.Spisak.resources
+D:\VISUAL ZADACI\MATURA RESENJA\PROG\B5B6-Fudbalski klub i utakmice\B5B6-Fudbalski klub i utakmice\obj\Debug\B5B6-Fudbalski klub i utakmice.csproj.GenerateResource.Cache

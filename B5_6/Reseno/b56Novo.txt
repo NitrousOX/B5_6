@@ -1,0 +1,3 @@
+create table Takmicenje (TakmicenjeID int not null primary key, Naziv varchar(50) not null);
+create table Utakmica(UtakmicaID int not null primary key, DomacinID int not null foreign key references Klub(KlubID),GostID int not null foreign key references Klub(KlubID), Datum smalldatetime not null, TakmicenjeID  int not null foreign key references Takmicenje(TakmicenjeID));
+create table Statistika(IgracID int not null foreign key references Igrac(IgracID),UtakmicaID int not null foreign key references Utakmica(UtakmicaID), Golovi int not null, CrveniKartoni int not null, ZutiKartoni int not null, Fauliran int not null, Faulirao int not null,primary key(IgracID,UtakmicaID));

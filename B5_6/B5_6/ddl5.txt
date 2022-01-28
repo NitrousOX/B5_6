@@ -1,0 +1,7 @@
+select Igrac.Ime, Igrac.Prezime,Klub.NazivKluba,Grad.Grad,Pozicija_igraca.Naziv from Igrac join Klub on Igrac.KlubID=Klub.KlubID join Pozicija_igraca on Pozicija_igraca.PozicijaID = Igrac.PozicijaID join Grad on Klub.GradID = Grad.GradID  order by Ime,Prezime asc, NazivKluba desc
+
+create table Utakmica(UtakmicaID int not null primary key, Naziv varchar(50));
+
+create table Statistika(IgracID int foreign key references Igrac(IgracID), UtakmicaID int foreign key references Utakmica(UtakmicaID), BrojGolova int , brojCrvenih int, brojZutih int , BrojFaulaNapravljen int, BrojFaulaPrimljen int)
+
+create table Game(GameID int not null primary key, Domacin int foreign key references Klub(KlubID),Gost int foreign key references Klub(KlubID), Datum Date not null, vreme Time not null, Takmicenje int foreign key references Utakmica(UtakmicaID))
